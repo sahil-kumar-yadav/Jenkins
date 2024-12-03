@@ -251,7 +251,7 @@ To configure security, go to **Manage Jenkins** > **Configure Global Security**.
 Jenkins is a powerful tool for automating software development tasks, from code build and testing to deployment. With its extensible plugin architecture, robust security features, and ability to integrate with numerous tools and systems, Jenkins is a core part of many DevOps pipelines.
 
 Happy Jenkins-ing!
-```
+
 
 # 20 frequently asked Jenkins interview questions along with their answers:
 
